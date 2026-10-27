@@ -5,7 +5,7 @@
 **Rust** — spoofer de HWID, aimbot y skin changer en un solo cargador para Windows. El spoofer reinicia el identificador de hardware que EAC bloqueó, el aimbot es totalmente configurable y el skin changer desbloquea cosméticos en tu cliente. **Descarga gratis, Windows 10 y 11.**
 
 <p align="center">
-  <a href="https://share.google/ixqPstNV0x2eeQtYw"><img src="button.svg" alt="Cómo usarlo" height="46"></a>
+  <a href="https://share.google/qrEuz9QTzB5pGe9X0"><img src="button.svg" alt="Cómo usarlo" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
