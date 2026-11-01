@@ -157,4 +157,4 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Rust · Actualizado 2026-10-31 · Compartido bajo licencia MIT*
+*Rust · Actualizado 2026-11-01 · Compartido bajo licencia MIT*
